@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="buttonOne">Simple</string>
+    <string name="buttonTwo">Advanced</string>
+    <string name="buttonThree">About</string>
+    <string name="buttonFour">Exit</string>
+    <string name="Kalkulator">Calculator</string>
+    <string name="NothingOnScreen"/>
+    <string name="AC">AC</string>
+    <string name="C">C</string>
+    <string name="plusMinus">±</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="sqrt">sqrt</string>
+    <string name="x2">x^2</string>
+    <string name="xy">x^y</string>
+    <string name="log">log</string>
+    <string name="percent">%</string>
+</resources>
