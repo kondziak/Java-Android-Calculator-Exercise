@@ -10,5 +10,5 @@ It's a project for my studies
 <img src="simpleCalculator.png" width="200">
 
 ### Advanced calculator screen
-<img src="advancedCalcualtor.png" width="200">
+<img src="advancedCalculator.png" width="200">
 
