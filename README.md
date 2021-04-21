@@ -2,9 +2,13 @@
 It's a project for my studies
 
 ## Examples
+
 ### Start screen
-![](startScreen.png)
+<img src="startScreen.png" width="200">
+
 ### Simple calculator screen
-![](simpleCalculator.png)
+<img src="simpleCalculator.png" width="200">
+
 ### Advanced calculator screen
-![](advancedCalculator.png)
+<img src="advancedCalcualtor.png" width="200">
+
